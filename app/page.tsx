@@ -33,7 +33,7 @@ export default function Home() {
         <h1 className="mb-5 text-5xl font-bold"><span className="animate-fade-in">Boikano</span> <span className="text-blue-600 animate-pulse">Success</span> 
         <span className="animate-fade-in"> Ranape</span></h1>
 
-        <button className="btn btn-success"><a href="/SuccessCV.pdf" download="Boikano-Success-Ranape-cv.pdf">Download CV</a></button>
+        <button className="btn btn-success"><a href="/MonCVMeilleur.pdf" download="Boikano-Success-Ranape-cv.pdf">Download CV</a></button>
       </div>
     </div>
   </div>
