@@ -27,7 +27,7 @@ export default function Home() {
         backgroundColor: "#000"
       }}>
     <div className="hero-overlay bg-opacity-60"></div>
-    <div className="hero-content text-neutral-content text-center">
+    <div className="hero-content w-auto text-neutral-content text-center">
       <div className="max-w-md mr-96">
         <p>Hello there, My name is</p>
         <h1 className="mb-5 text-5xl font-bold"><span className="animate-fade-in">Boikano</span> <span className="text-blue-600 animate-pulse">Success</span> 
