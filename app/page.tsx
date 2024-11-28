@@ -1,5 +1,3 @@
-// import Image from 'next/image';
-// import Link from 'next/link';
 import Nav from "./components/Nav";
 import About from "./components/About";
 import Tools from "./components/Tools";
@@ -11,13 +9,9 @@ export default function Home() {
   return (
     <main>
       <Nav />
-      {/* <h1>Hello World</h1>
-      <Link href="/users">Users</Link>
-      <ProductCard /> */}
       <div
         className="hero min-h-screen"
         style={{
-      // backgroundImage: "url(https://img.daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.webp)",
         backgroundImage: `url(${MyPhoto.src})`,
         backgroundSize: "cover",
         backgroundPosition: "center",
