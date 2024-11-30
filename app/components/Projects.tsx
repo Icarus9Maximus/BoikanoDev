@@ -94,7 +94,7 @@ const Projects = () => {
               </p>
               <div className="flex gap-4">
                 <Link
-                  href="https://blogify-3-val1.onrender.com/"
+                  href="https://blogify-2-wh2k.onrender.com"
                   target="_blank"
                 >
                   <button className="bg-blue-600 text-white py-2 px-4 rounded-lg hover:bg-blue-500 transition">
